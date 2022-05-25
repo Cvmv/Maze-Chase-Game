@@ -1,8 +1,8 @@
 # The map must consist of 16 x 11 characters.
 # 0 means that there is nothing on this square.
 # 1 means that there is a wall.
-# 2 means that there is food.
-# 3 means that there is an enemy spawn.
+# 2 means that there is a coin.
+# 3 means that there is a cactus spawn.
 # No other characters are allowed.
 #
 2222222222222222
