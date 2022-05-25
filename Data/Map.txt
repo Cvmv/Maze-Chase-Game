@@ -1,0 +1,19 @@
+# The map must consist of 16 x 11 characters.
+# 0 means that there is nothing on this square.
+# 1 means that there is a wall.
+# 2 means that there is food.
+# 3 means that there is an enemy spawn.
+# No other characters are allowed.
+#
+2222222222222222
+2121211111121212
+2121222222221212
+2121111111111212
+2122222222222312
+2221212112121222
+2121212112121212
+2122212222122212
+2111112112111112
+2221222232221222
+2111111221111112
+
