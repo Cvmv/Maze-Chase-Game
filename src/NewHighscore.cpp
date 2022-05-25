@@ -1,5 +1,4 @@
 #include "NewHighscore.h"
-#include <SDL2/SDL_events.h>
 #include <string>
 
 NewHighscore::NewHighscore(const char *filename)

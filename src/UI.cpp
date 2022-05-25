@@ -1,5 +1,4 @@
 #include "UI.h"
-#include <SDL2/SDL_ttf.h>
 
 Ui::Ui()
 {

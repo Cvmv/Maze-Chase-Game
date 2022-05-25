@@ -1,5 +1,4 @@
 #include "Map.h"
-#include <SDL2/SDL_surface.h>
 
 Map::Map()
 {

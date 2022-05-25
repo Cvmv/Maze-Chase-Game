@@ -4,7 +4,6 @@
 #include "Highscore.h"
 #include "NewHighscore.h"
 #include "Game.h"
-#include <SDL2/SDL_surface.h>
 
 #ifdef _WIN32
 #undef main
