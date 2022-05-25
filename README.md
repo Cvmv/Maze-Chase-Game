@@ -1,6 +1,5 @@
 # Maze-Chase-Game
 
-A small maze chase game
 You are a red baloon, collect coins and avoid cactuses.
 
 # Installation Instructions
